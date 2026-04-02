@@ -7,7 +7,7 @@
       "اللهم اغفر لنا وارحمنـا في رمضان",
       "اللهم اجعل القرآن ربيع قلوبنا في رمضان"
     ],
-    "background": "https://drive.google.com/uc?export=view&id=1jLCtVu_p_mV6vx7VnjBtou4VNQjP32bD"
+    "background": "https://res.cloudinary.com/dmve3ywfq/image/upload/q_auto/f_auto/v1775125158/ramadan_jzridg.jpg"
   },
   "eid_al_fitr": {
     "duas": [
@@ -17,7 +17,7 @@
       "جعلكم الله من عتقائه في هذا العيد",
       "أسأل الله أن يفرح قلوبكم كما فرحتم بالعيد"
     ],
-    "background": "https://drive.google.com/uc?export=view&id=1WbSDPmRyJga0UNfbnhX74sn1FaYFLuzz"
+    "background": "https://res.cloudinary.com/dmve3ywfq/image/upload/q_auto/f_auto/v1775125158/eid_fitr_cwukos.jpg"
   },
   "eid_al_adha": {
     "duas": [
@@ -27,7 +27,7 @@
       "اللهم اجعل هذا العيد فرجًا لكل مهموم",
       "اللهم بارك لنا في أيامنا وتقبل طاعاتنا"
     ],
-    "background": "https://drive.google.com/uc?export=view&id=10uLu8DyMBLkaWd9PWYLN4S8mz7EbXhB3"
+    "background": "https://res.cloudinary.com/dmve3ywfq/image/upload/q_auto/f_auto/v1775125158/eid_adha_ffzf4k.jpg"
   },
   "dhul_hijjah": {
     "duas": [
@@ -37,7 +37,7 @@
       "اللهم اكتب لنا أجر الحاجين وإن لم نحج",
       "اللهم اجعلها أيام خير وبركة علينا"
     ],
-    "background": "https://drive.google.com/uc?export=view&id=1Rg6wCQ7A7pVGuGyQQ7dxqBLmh6ZDXnlb"
+    "background": "https://res.cloudinary.com/dmve3ywfq/image/upload/q_auto/f_auto/v1775125158/dhu_al_hijjah_anbgkc.jpg"
   },
   "day_of_arafah": {
     "duas": [
@@ -47,7 +47,7 @@
       "اللهم تقبل دعاءنا وحقق رجاءنا",
       "اللهم اجعلنا من المقبولين في يوم عرفة"
     ],
-    "background": "https://drive.google.com/uc?export=view&id=1_i_Zk5pcLUa1KSmUvYFbqQ4At37LBqs5"
+    "background": "https://res.cloudinary.com/dmve3ywfq/image/upload/q_auto/f_auto/v1775125158/arafah_sbkobc.jpg"
   },
   "ashura": {
     "duas": [
@@ -57,7 +57,7 @@
       "اللهم تقبل صيامنا وقيامنا",
       "اللهم ارزقنا التوبة الصادقة"
     ],
-    "background": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92"
+    "background": ""
   },
   "muharram": {
     "duas": [
@@ -67,7 +67,7 @@
       "اللهم افتح لنا أبواب الرزق في هذا العام",
       "اللهم قربنا إليك وأصلح حالنا"
     ],
-    "background": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92"
+    "background": ""
   },
   "daily": {
     "duas": [
@@ -77,6 +77,6 @@
       "اللهم اجعل يومي هذا خيرًا",
       "حسبي الله لا إله إلا هو عليه توكلت"
     ],
-    "background": "https://images.unsplash.com/photo-1519817650390-64a93db51149"
+    "background": ""
   }
 }
